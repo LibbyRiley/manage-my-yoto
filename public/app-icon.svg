@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Podcast to Yoto">
+  <!-- Black background, rounded square -->
+  <rect width="512" height="512" rx="112" fill="#0a0a0a"/>
+
+  <!-- Yoto-orange play triangle, optically centered (visual centroid lands on 256,256) -->
+  <path d="M 196 140 L 196 372 L 376 256 Z" fill="#f85e42"/>
+</svg>
